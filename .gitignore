@@ -1,0 +1,8 @@
+WEB-INF
+.project
+.DS_STORE
+.DS_Store
+.settings
+.jshintrc
+*.sublime-project
+*.sublime-workspace
