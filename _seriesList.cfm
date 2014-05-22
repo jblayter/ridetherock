@@ -8,7 +8,7 @@
 			A gravity track with abilities for all ages
 			<br/><a href="rhyolite.cfm"><span class="glyphicon glyphicon-play-circle"></span> race details</a>
 		</div>
-		<p><a class="btn btn-primary" href="#" role="button">Register now <span class="glyphicon glyphicon-usd"></span>20</a></p>
+		<p><a class="btn btn-primary" href="/register.cfm?race=rhyolite" role="button">Register now <span class="glyphicon glyphicon-usd"></span>20</a></p>
 	</div>
 	<div class="col-md-4">
 		<h3><a href="memen-ridge.cfm">Race:2 Memen Ridge</a></h3>
@@ -19,7 +19,7 @@
 			A short loop in the heart of Castle Rock. 
 			<br/><a href="memen-ridge.cfm"><span class="glyphicon glyphicon-play-circle"></span> race details</a>
 		</div>
-		<p><a class="btn btn-primary" href="#" role="button">Register now <span class="glyphicon glyphicon-usd"></span>20</a></p>
+		<p><a class="btn btn-primary" href="/register.cfm?race=memen" role="button">Register now <span class="glyphicon glyphicon-usd"></span>20</a></p>
 	</div>
 	
 	<div class="col-md-4">
@@ -31,6 +31,6 @@
 			A greate XC course 
 			<br/><a href="ridgeline.cfm"><span class="glyphicon glyphicon-play-circle"></span> race details</a>
 		</div>
-		<p><a class="btn btn-primary" href="#" role="button">Register now <span class="glyphicon glyphicon-usd"></span>20</a></p>
+		<p><a class="btn btn-primary" href="/register.cfm?race=ridgeline" role="button">Register now <span class="glyphicon glyphicon-usd"></span>20</a></p>
 	</div>
 </div>

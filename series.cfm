@@ -11,7 +11,7 @@
 	<h4>Awards</h4>
 	<p>There will be distinct finisher's ribbons for each race and a medal for the first place rider in each category. The series winners in each category will also be given a trophy at the end of the last race.</p>
 	
-	<p align="center"><a class="btn btn-lg btn-success" href="#" role="button">Register for the series and save $10.</a></p>
+	<p align="center"><a class="btn btn-lg btn-success" href="/register.cfm?race=series" role="button">Register for the series and save $10.</a></p>
 	
 	<cfinclude template="_seriesList.cfm">
       
